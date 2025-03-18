@@ -44,9 +44,9 @@ This private repository contains a modified version of the existing notebook fil
                 "path": "./policies/target.pdf"
             },
             {
-                "name": "Nike",
+                "name": "Ambetter Health",
                 "kind": "webpage",
-                "path": "https://www.nike.com/help/a/privacy-global"
+                "path": "https://www.ambetterhealth.com/en/privacy-policy/"
             }
         ]
     }
