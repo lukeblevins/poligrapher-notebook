@@ -1,0 +1,14 @@
+{
+    "policy_urls": [
+        {
+            "name": "Target",
+            "kind": "pdf",
+            "path": "./policies/target.pdf"
+        },
+        {
+            "name": "Nike",
+            "kind": "webpage",
+            "path": "https://www.nike.com/help/a/privacy-global"
+        }
+    ]
+}
