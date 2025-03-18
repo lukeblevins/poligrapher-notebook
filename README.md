@@ -56,5 +56,5 @@ This private repository contains a modified version of the existing notebook fil
 
     Return to the `poligrapher_notebook.ipynb` file. Click the **Run All** button found near the top. The notebook will install its dependencies, clone the latest version of the poligraph tool repository, and run it on the policies specified in the prior step.
 
-    > [!NOTE]
-    > The produced graphs and their visual representations will be stored in an `output/` directory. This folder is automatically created at the top level of this workspace.
+> [!NOTE]
+> The produced graphs and their visual representations will be stored in an `output/` directory. This folder is automatically created at the top level of this workspace.
